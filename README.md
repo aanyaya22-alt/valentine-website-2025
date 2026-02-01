@@ -86,7 +86,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Dhruv"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -117,8 +117,8 @@ questions: {
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
+    extreme: "WOOOOW You love me that much?? 🥰💝",  // Shows above 5000%
+    high: "To infinity and beyond! 🥹💝",              // Shows above 1000%
     normal: "And beyond! 🥰"                           // Shows above 100%
 }
 
